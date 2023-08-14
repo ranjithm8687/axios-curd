@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/axios-curd/static/css/main.e76beec1.css",
+    "main.js": "/axios-curd/static/js/main.78083684.js",
+    "index.html": "/axios-curd/index.html",
+    "main.e76beec1.css.map": "/axios-curd/static/css/main.e76beec1.css.map",
+    "main.78083684.js.map": "/axios-curd/static/js/main.78083684.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e76beec1.css",
+    "static/js/main.78083684.js"
+  ]
+}
