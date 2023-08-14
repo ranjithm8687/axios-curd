@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My 4 Post hjk",
+      "datetime": "August 09, 2023,12:29:27 PM",
+      "body": "ETC Ranjith RTC SRS"
+    },
+    {
+      "id": 2,
+      "title": "Hari krishnan",
+      "datetime": "August 09, 2023,7:12:40 PM",
+      "body": "hara hara maha deva"
+    },
+    {
+      "id": 3,
+      "title": "ranjith",
+      "datetime": "August 14, 2023 6:30:48 PM",
+      "body": "hara hara maha deva"
+    },
+    {
+      "id": 4,
+      "title": "hari Krik",
+      "datetime": "August 14, 2023 6:40:24 PM",
+      "body": "hara"
+    }
+  ]
+}
